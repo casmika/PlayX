@@ -1,0 +1,11 @@
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\bin\Debug\PlayX.exe.config
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\bin\Debug\PlayX.exe
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\bin\Debug\PlayX.pdb
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\bin\Debug\NAudio.dll
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\bin\Debug\NAudio.xml
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\obj\Debug\PlayX.csprojResolveAssemblyReference.cache
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\obj\Debug\PlayX.Form1.resources
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\obj\Debug\PlayX.Properties.Resources.resources
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\obj\Debug\PlayX.csproj.GenerateResource.Cache
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\obj\Debug\PlayX.exe
+E:\KULIAH\sem 8\pisual\PlayX\PlayX\obj\Debug\PlayX.pdb
